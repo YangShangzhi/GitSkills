@@ -1,0 +1,39 @@
+echo '': print string
+
+ls: list, show the list
+ls -l: -long, show the detail of the list
+ls .: show the current directory list
+ls ..: show the father dir lsit
+ls path: show the list of the path
+
+pwd: print working directory, show current working directory
+
+cd: change directory
+cd path: go into the path
+cd ..: go to father directory
+cd ~: go the root directory
+
+curl: see url, download the url
+curl -L url: download the url that has redirectly
+curl -L -o path url: download the url to the local path
+
+mv: move files
+mv filepath despath: move filepath to despath
+
+mkdir: make directory, create a folder
+
+cat: open the file and read all txt
+less: open the file and read one page 
+	--use space to nextpage
+	--use b to prepage
+
+touch: create new file
+
+rm: remove a file that cannot undo
+rm -i: make a confirmation before remove the file
+
+rmdir: remove a directory
+
+grep content file: search content in the file
+
+
