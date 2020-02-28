@@ -19,4 +19,14 @@ Check difference between 2 version:
  git diff: compare working directory and staging area file
  git diff -staged: compare staging area and repository file
 
+Reset the version in working directory and staging area:
+ git reset --hard: reset working directory and staging area.
+
+Create a new branch:
+ git branch: view all the branches
+ git branch new_branch_name: create a new branch
+ git checkout new_branch_name: switch to the new branch
+
+
+
 
