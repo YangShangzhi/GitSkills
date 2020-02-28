@@ -1,0 +1,21 @@
+Create a local repository:
+ git init
+
+Add file to staged area:
+ git add filename: add one file
+ git add -A: add all files
+
+Commit file to repository:
+ git commit 
+ git commit -m"":commit with introduction
+
+Check git status:
+ git status
+
+Check git logs:
+ git log
+
+Check difference between 2 version:
+ git diff: compare 
+ git diff -staged: compare
+
