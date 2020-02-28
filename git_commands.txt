@@ -16,6 +16,7 @@ Check git logs:
  git log
 
 Check difference between 2 version:
- git diff: compare 
- git diff -staged: compare
+ git diff: compare working directory and staging area file
+ git diff -staged: compare staging area and repository file
+
 
