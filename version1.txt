@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Hello, every
 I 
 am
 English 
 version 1.
+
+大家好，
+我是中文版本1.
+>>>>>>> Chinese_version
